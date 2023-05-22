@@ -1,0 +1,56 @@
+//a human-player winning the game by killing the target character(turns = 5)
+
+===================Killing Doctor Lucky Game Controller======================
+===============================Game Start====================================
+Enter no of Players
+1
+Choose a command option to add players
+1---->AddHumanPlayer
+2---->AddComputerPlayer
+1
+Enter player name,player item limit and player room
+sahith 2 Carriage House
+Human player added to the game
+======================All Players added to the game=============================
+================Choose a command option for Player sahith==============
+1---->WorldGraphicalRep  2---->LookAround
+3---->MovePlayer  4---->PickItem
+5---->PlayerInfo  6---->SpaceInfo
+7---->MovePet  8---->AttackTarget
+=============================Clues===============================
+player sahith is in room Carriage House and carrying [].
+Target is in room Armory and Targets health's is 4.
+Pet is not in the current player's room.
+=================================================================
+2
+Player sahith is in room Carriage House, has items [Chain Saw, Big Red Hammer] and other players in room []. Player's neighbor space information [Room Winter Garden has items [] and it has players []]
+================Choose a command option for Player sahith==============
+1---->WorldGraphicalRep  2---->LookAround
+3---->MovePlayer  4---->PickItem
+5---->PlayerInfo  6---->SpaceInfo
+7---->MovePet  8---->AttackTarget
+=============================Clues===============================
+player sahith is in room Carriage House and carrying [].
+Target is in room Billiard Room and Targets health's is 4.
+Pet is not in the current player's room.
+=================================================================
+4
+Enter item name
+Chain Saw
+Player picked item
+================Choose a command option for Player sahith==============
+1---->WorldGraphicalRep  2---->LookAround
+3---->MovePlayer  4---->PickItem
+5---->PlayerInfo  6---->SpaceInfo
+7---->MovePet  8---->AttackTarget
+=============================Clues===============================
+player sahith is in room Carriage House and carrying [Item Chain Saw with damage power 4].
+Target is in room Carriage House and Targets health's is 4.
+Pet is not in the current player's room.
+=================================================================
+8
+Enter item name
+Chain Saw
+Target attack is successfull and Target health decreased by 4
+Player sahith killed the target and he is the winner.
+======================Game Over=============================

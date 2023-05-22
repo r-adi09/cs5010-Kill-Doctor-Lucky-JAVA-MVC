@@ -1,0 +1,85 @@
+//the target character's pet effect on the visibility of a space from neighboring spaces(turns = 5)
+
+===================Killing Doctor Lucky Game Controller======================
+===============================Game Start====================================
+Enter no of Players
+2
+Choose a command option to add players
+1---->AddHumanPlayer
+2---->AddComputerPlayer
+1
+Enter player name,player item limit and player room
+sahith 5 Armory
+Human player added to the game
+Choose a command option to add players
+1---->AddHumanPlayer
+2---->AddComputerPlayer
+1
+Enter player name,player item limit and player room
+venky 2 Billiard Room
+Human player added to the game
+======================All Players added to the game=============================
+================Choose a command option for Player sahith==============
+1---->WorldGraphicalRep  2---->LookAround
+3---->MovePlayer  4---->PickItem
+5---->PlayerInfo  6---->SpaceInfo
+7---->MovePet  8---->AttackTarget
+=============================Clues===============================
+player sahith is in room Armory and carrying [].
+Target is in room Armory and Targets health's is 4.
+Pet is in the current player's room.
+=================================================================
+7
+Enter room name
+Armory
+Pet moved to another room
+================Choose a command option for Player venky==============
+1---->WorldGraphicalRep  2---->LookAround
+3---->MovePlayer  4---->PickItem
+5---->PlayerInfo  6---->SpaceInfo
+7---->MovePet  8---->AttackTarget
+=============================Clues===============================
+player venky is in room Billiard Room and carrying [].
+Target is in room Billiard Room and Targets health's is 4.
+Pet is not in the current player's room.
+=================================================================
+2
+Player venky is in room Billiard Room, has items [Billiard Cue] and other players in room []. Player's neighbor space information [Room Dining Hall has items [] and it has players [], Room Trophy Room has items [Duck Decoy, Monkey Hand] and it has players []]
+================Choose a command option for Player sahith==============
+1---->WorldGraphicalRep  2---->LookAround
+3---->MovePlayer  4---->PickItem
+5---->PlayerInfo  6---->SpaceInfo
+7---->MovePet  8---->AttackTarget
+=============================Clues===============================
+player sahith is in room Armory and carrying [].
+Target is in room Carriage House and Targets health's is 4.
+Pet is not in the current player's room.
+=================================================================
+2
+Player sahith is in room Armory, has items [Revolver] and other players in room []. Player's neighbor space information [Room Dining Hall has items [] and it has players [], Room Drawing Room has items [Letter Opener] and it has players []]
+================Choose a command option for Player venky==============
+1---->WorldGraphicalRep  2---->LookAround
+3---->MovePlayer  4---->PickItem
+5---->PlayerInfo  6---->SpaceInfo
+7---->MovePet  8---->AttackTarget
+=============================Clues===============================
+player venky is in room Billiard Room and carrying [].
+Target is in room Dining Hall and Targets health's is 4.
+Pet is not in the current player's room.
+=================================================================
+2
+Player venky is in room Billiard Room, has items [Billiard Cue] and other players in room []. Player's neighbor space information [Room Armory has items [Revolver] and it has players [sahith], Room Trophy Room has items [Duck Decoy, Monkey Hand] and it has players []]
+================Choose a command option for Player sahith==============
+1---->WorldGraphicalRep  2---->LookAround
+3---->MovePlayer  4---->PickItem
+5---->PlayerInfo  6---->SpaceInfo
+7---->MovePet  8---->AttackTarget
+=============================Clues===============================
+player sahith is in room Armory and carrying [].
+Target is in room Drawing Room and Targets health's is 4.
+Pet is not in the current player's room.
+=================================================================
+2
+Player sahith is in room Armory, has items [Revolver] and other players in room []. Player's neighbor space information [Room Billiard Room has items [Billiard Cue] and it has players [venky], Room Dining Hall has items [] and it has players []]
+Target is not killed and no one wins the game.
+======================Game Over=============================

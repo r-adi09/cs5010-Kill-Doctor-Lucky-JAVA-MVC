@@ -1,0 +1,19 @@
+// a computer-controlled player making an attempt on the target character's life(turns = 5)
+
+===================Killing Doctor Lucky Game Controller======================
+===============================Game Start====================================
+Enter no of Players
+1
+Choose a command option to add players
+1---->AddHumanPlayer
+2---->AddComputerPlayer
+2
+Computer player added to the game
+======================All Players added to the game=============================
+Target attack is successfull by poking him in the eye and Target health decreased to 3
+Computer player picked an item
+Computer player picked an item
+Computer player moved Pet to another room
+Computer player picked an item
+Target is not killed and no one wins the game.
+======================Game Over=============================

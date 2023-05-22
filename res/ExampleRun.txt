@@ -1,0 +1,67 @@
+===================Killing Doctor Lucky Game Controller======================
+===============================Game Start====================================
+Enter no of Players
+3
+Choose a command[AddHumanPlayer,AddComputerPlayer] to add players
+AddHumanPlayer
+Enter player name,player item limit and player room
+sahith 2 Kitchen
+Human player added to the game
+Choose a command[AddHumanPlayer,AddComputerPlayer] to add players
+AddComputerPlayer
+Computer player added to the game
+Choose a command[AddHumanPlayer,AddComputerPlayer] to add players
+AddHumanPlayer
+Enter player name,player item limit and player room
+venky 3 Parlor
+Human player added to the game
+======================All Players added to the game=============================
+Choose a command[WorldGraphicalRep,LookAround,MovePlayer,PickItem,PlayerInfo,SpaceInfo] for Player 1
+WorldGraphicalRep
+Image in created in res folder
+Choose a command[WorldGraphicalRep,LookAround,MovePlayer,PickItem,PlayerInfo,SpaceInfo] for Player 1
+SpaceInfo
+Enter Space name
+Kitchen
+Room Kitchen in  Doctor Lucky's Mansion has items : [Crepe Pan, Sharp Knife], its neighbours are : [Dining Hall, Parlor, Wine Cellar] and it has players [sahith]
+Choose a command[WorldGraphicalRep,LookAround,MovePlayer,PickItem,PlayerInfo,SpaceInfo] for Player 1
+PickItem
+Enter item name
+Crepe Pan
+Player picked item
+Computer played its turn
+Choose a command[WorldGraphicalRep,LookAround,MovePlayer,PickItem,PlayerInfo,SpaceInfo] for Player 3
+PlayerInfo
+Enter player name
+sahith
+player name sahith is in room Kitchen and carrying items [Crepe Pan]
+Choose a command[WorldGraphicalRep,LookAround,MovePlayer,PickItem,PlayerInfo,SpaceInfo] for Player 3
+SpaceInfo
+Enter Space name
+Kitchen
+Room Kitchen in  Doctor Lucky's Mansion has items : [Sharp Knife], its neighbours are : [Dining Hall, Parlor, Wine Cellar] and it has players [sahith]
+Choose a command[WorldGraphicalRep,LookAround,MovePlayer,PickItem,PlayerInfo,SpaceInfo] for Player 3
+LookAround
+Player venky is in room Parlor and has neighbors [Dining Hall, Kitchen, Servants' Quarters, Tennessee Room]
+Choose a command[WorldGraphicalRep,LookAround,MovePlayer,PickItem,PlayerInfo,SpaceInfo] for Player 1
+MovePlayer
+Enter room name
+Parlor
+Player moved to room
+Computer played its turn
+Choose a command[WorldGraphicalRep,LookAround,MovePlayer,PickItem,PlayerInfo,SpaceInfo] for Player 3
+MovePlayer
+Enter room name
+Kitchen
+Player moved to room
+Choose a command[WorldGraphicalRep,LookAround,MovePlayer,PickItem,PlayerInfo,SpaceInfo] for Player 1
+PlayerInfo
+Enter player name
+sahith
+player name sahith is in room Parlor and carrying items [Crepe Pan]
+Choose a command[WorldGraphicalRep,LookAround,MovePlayer,PickItem,PlayerInfo,SpaceInfo] for Player 1
+LookAround
+Player sahith is in room Parlor and has neighbors [Dining Hall, Kitchen, Servants' Quarters, Tennessee Room]
+======================Game Over=============================
+
+//The above game has 7 turns

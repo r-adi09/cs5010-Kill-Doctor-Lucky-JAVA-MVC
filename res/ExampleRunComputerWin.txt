@@ -1,0 +1,36 @@
+//a computer-controlled player winning the game by killing the target character(turns = 100)
+
+===================Killing Doctor Lucky Game Controller======================
+===============================Game Start====================================
+Enter no of Players
+1
+Choose a command option to add players
+1---->AddHumanPlayer
+2---->AddComputerPlayer
+2
+Computer player added to the game
+======================All Players added to the game=============================
+Target attack is successfull by poking him in the eye and Target health decreased to 3
+Computer player moved
+Computer player moved
+Target attack is successfull by poking him in the eye and Target health decreased to 2
+Computer player moved Pet to another room
+Computer player picked an item
+Computer player moved
+Computer player moved
+Computer player picked an item
+Computer player moved Pet to another room
+Computer player picked an item
+Computer player Looked Around the spaces
+Computer player Looked Around the space
+Computer player picked an item
+Computer player moved
+Computer player picked an item
+Computer player picked an item
+Computer player moved
+Computer player picked an item
+Computer player picked an item
+Computer player Looked Around the space
+Target attack is successfull with item Revolver and damage power 3 and Target health decreased by -1
+Player Computer1 killed the target and he is the winner.
+======================Game Over=============================

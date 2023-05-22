@@ -1,0 +1,184 @@
+//if you implement the extra credit be sure that you include evidence of this in your example run(turns = 8)
+
+===================Killing Doctor Lucky Game Controller======================
+===============================Game Start====================================
+Enter no of Players
+1
+Choose a command option to add players
+1---->AddHumanPlayer
+2---->AddComputerPlayer
+1
+Enter player name,player item limit and player room
+sahith 5 Drawing Room
+Human player added to the game
+======================All Players added to the game=============================
+================Choose a command option for Player sahith==============
+1---->WorldGraphicalRep  2---->LookAround
+3---->MovePlayer  4---->PickItem
+5---->PlayerInfo  6---->SpaceInfo
+7---->MovePet  8---->AttackTarget
+=============================Clues===============================
+player sahith is in room Drawing Room and carrying [].
+Target is in room Armory and Targets health's is 4.
+Pet is not in the current player's room.
+=================================================================
+2
+Player sahith is in room Drawing Room, has items [Letter Opener] and other players in room []. Player's neighbor space information [Room Dining Hall has items [] and it has players [], Room Foyer has items [] and it has players [], Room Wine Cellar has items [Rat Poison, Piece of Rope] and it has players []]
+================Choose a command option for Player sahith==============
+1---->WorldGraphicalRep  2---->LookAround
+3---->MovePlayer  4---->PickItem
+5---->PlayerInfo  6---->SpaceInfo
+7---->MovePet  8---->AttackTarget
+=============================Clues===============================
+player sahith is in room Drawing Room and carrying [].
+Target is in room Billiard Room and Targets health's is 4.
+Pet is not in the current player's room.
+=================================================================
+6
+Enter Space name
+Billiard Room
+Room Billiard Room in  Doctor Lucky's Mansion has items : [Billiard Cue], its neighbours are : [Armory, Dining Hall, Trophy Room], it has players [] and Pet is in room Billiard Room
+================Choose a command option for Player sahith==============
+1---->WorldGraphicalRep  2---->LookAround
+3---->MovePlayer  4---->PickItem
+5---->PlayerInfo  6---->SpaceInfo
+7---->MovePet  8---->AttackTarget
+=============================Clues===============================
+player sahith is in room Drawing Room and carrying [].
+Target is in room Billiard Room and Targets health's is 4.
+Pet is not in the current player's room.
+=================================================================
+2
+Player sahith is in room Drawing Room, has items [Letter Opener] and other players in room []. Player's neighbor space information [Room Armory has items [Revolver] and it has players [], Room Dining Hall has items [] and it has players [], Room Foyer has items [] and it has players [], Room Wine Cellar has items [Rat Poison, Piece of Rope] and it has players []]
+================Choose a command option for Player sahith==============
+1---->WorldGraphicalRep  2---->LookAround
+3---->MovePlayer  4---->PickItem
+5---->PlayerInfo  6---->SpaceInfo
+7---->MovePet  8---->AttackTarget
+=============================Clues===============================
+player sahith is in room Drawing Room and carrying [].
+Target is in room Carriage House and Targets health's is 4.
+Pet is not in the current player's room.
+=================================================================
+6
+Enter Space name
+Dining Hall
+Room Dining Hall in  Doctor Lucky's Mansion has items : [], its neighbours are : [Armory, Billiard Room, Drawing Room, Kitchen, Parlor, Tennessee Room, Trophy Room, Wine Cellar], it has players [] and Pet is in room Dining Hall
+================Choose a command option for Player sahith==============
+1---->WorldGraphicalRep  2---->LookAround
+3---->MovePlayer  4---->PickItem
+5---->PlayerInfo  6---->SpaceInfo
+7---->MovePet  8---->AttackTarget
+=============================Clues===============================
+player sahith is in room Drawing Room and carrying [].
+Target is in room Carriage House and Targets health's is 4.
+Pet is not in the current player's room.
+=================================================================
+2
+Player sahith is in room Drawing Room, has items [Letter Opener] and other players in room []. Player's neighbor space information [Room Armory has items [Revolver] and it has players [], Room Foyer has items [] and it has players [], Room Wine Cellar has items [Rat Poison, Piece of Rope] and it has players []]
+================Choose a command option for Player sahith==============
+1---->WorldGraphicalRep  2---->LookAround
+3---->MovePlayer  4---->PickItem
+5---->PlayerInfo  6---->SpaceInfo
+7---->MovePet  8---->AttackTarget
+=============================Clues===============================
+player sahith is in room Drawing Room and carrying [].
+Target is in room Dining Hall and Targets health's is 4.
+Pet is in the current player's room.
+=================================================================
+7
+Enter room name
+Billiard Room
+Pet moved to another room
+================Choose a command option for Player sahith==============
+1---->WorldGraphicalRep  2---->LookAround
+3---->MovePlayer  4---->PickItem
+5---->PlayerInfo  6---->SpaceInfo
+7---->MovePet  8---->AttackTarget
+=============================Clues===============================
+player sahith is in room Drawing Room and carrying [].
+Target is in room Drawing Room and Targets health's is 4.
+Pet is not in the current player's room.
+=================================================================
+6
+Enter Space name
+Billiard Room
+Room Billiard Room in  Doctor Lucky's Mansion has items : [Billiard Cue], its neighbours are : [Armory, Dining Hall, Trophy Room], it has players [] and Pet is in room Billiard Room
+================Choose a command option for Player sahith==============
+1---->WorldGraphicalRep  2---->LookAround
+3---->MovePlayer  4---->PickItem
+5---->PlayerInfo  6---->SpaceInfo
+7---->MovePet  8---->AttackTarget
+=============================Clues===============================
+player sahith is in room Drawing Room and carrying [].
+Target is in room Drawing Room and Targets health's is 4.
+Pet is not in the current player's room.
+=================================================================
+2
+Player sahith is in room Drawing Room, has items [Letter Opener] and other players in room []. Player's neighbor space information [Room Armory has items [Revolver] and it has players [], Room Dining Hall has items [] and it has players [], Room Foyer has items [] and it has players [], Room Wine Cellar has items [Rat Poison, Piece of Rope] and it has players []]
+================Choose a command option for Player sahith==============
+1---->WorldGraphicalRep  2---->LookAround
+3---->MovePlayer  4---->PickItem
+5---->PlayerInfo  6---->SpaceInfo
+7---->MovePet  8---->AttackTarget
+=============================Clues===============================
+player sahith is in room Drawing Room and carrying [].
+Target is in room Foyer and Targets health's is 4.
+Pet is not in the current player's room.
+=================================================================
+6
+Enter Space name
+Armory
+Room Armory in  Doctor Lucky's Mansion has items : [Revolver], its neighbours are : [Billiard Room, Dining Hall, Drawing Room], it has players [] and Pet is in room Armory
+================Choose a command option for Player sahith==============
+1---->WorldGraphicalRep  2---->LookAround
+3---->MovePlayer  4---->PickItem
+5---->PlayerInfo  6---->SpaceInfo
+7---->MovePet  8---->AttackTarget
+=============================Clues===============================
+player sahith is in room Drawing Room and carrying [].
+Target is in room Foyer and Targets health's is 4.
+Pet is not in the current player's room.
+=================================================================
+2
+Player sahith is in room Drawing Room, has items [Letter Opener] and other players in room []. Player's neighbor space information [Room Dining Hall has items [] and it has players [], Room Foyer has items [] and it has players [], Room Wine Cellar has items [Rat Poison, Piece of Rope] and it has players []]
+================Choose a command option for Player sahith==============
+1---->WorldGraphicalRep  2---->LookAround
+3---->MovePlayer  4---->PickItem
+5---->PlayerInfo  6---->SpaceInfo
+7---->MovePet  8---->AttackTarget
+=============================Clues===============================
+player sahith is in room Drawing Room and carrying [].
+Target is in room Green House and Targets health's is 4.
+Pet is not in the current player's room.
+=================================================================
+6
+Enter Space name
+Dining Hall
+Room Dining Hall in  Doctor Lucky's Mansion has items : [], its neighbours are : [Armory, Billiard Room, Drawing Room, Kitchen, Parlor, Tennessee Room, Trophy Room, Wine Cellar], it has players [] and Pet is in room Dining Hall
+================Choose a command option for Player sahith==============
+1---->WorldGraphicalRep  2---->LookAround
+3---->MovePlayer  4---->PickItem
+5---->PlayerInfo  6---->SpaceInfo
+7---->MovePet  8---->AttackTarget
+=============================Clues===============================
+player sahith is in room Drawing Room and carrying [].
+Target is in room Green House and Targets health's is 4.
+Pet is not in the current player's room.
+=================================================================
+2
+Player sahith is in room Drawing Room, has items [Letter Opener] and other players in room []. Player's neighbor space information [Room Armory has items [Revolver] and it has players [], Room Foyer has items [] and it has players [], Room Wine Cellar has items [Rat Poison, Piece of Rope] and it has players []]
+================Choose a command option for Player sahith==============
+1---->WorldGraphicalRep  2---->LookAround
+3---->MovePlayer  4---->PickItem
+5---->PlayerInfo  6---->SpaceInfo
+7---->MovePet  8---->AttackTarget
+=============================Clues===============================
+player sahith is in room Drawing Room and carrying [].
+Target is in room Hedge Maze and Targets health's is 4.
+Pet is in the current player's room.
+=================================================================
+2
+Player sahith is in room Drawing Room, has items [Letter Opener] and other players in room []. Player's neighbor space information [Room Armory has items [Revolver] and it has players [], Room Dining Hall has items [] and it has players [], Room Foyer has items [] and it has players [], Room Wine Cellar has items [Rat Poison, Piece of Rope] and it has players []]
+Target is not killed and no one wins the game.
+======================Game Over=============================
